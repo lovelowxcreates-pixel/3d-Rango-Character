@@ -8,25 +8,29 @@ A stylized 3D character project inspired by Rango, created using Blender for scu
 
 The final textured character, presented with materials, lighting, and a custom wooden platform.
 
-![Rango Final Render](renders/rango-final-render.png)
+<img width="1920" height="1080" alt="1001" src="https://github.com/user-attachments/assets/bacfe75c-628d-48e1-bf25-33a66f8b4dc9" />
+
 
 ## Clay Render
 
 A clay render showcasing the character's silhouette, sculpted forms, and overall shape without the final textures.
 
-![Rango Clay Render](renders/rango-clay-render.png)
+<img width="1920" height="1080" alt="1001" src="https://github.com/user-attachments/assets/13cee756-b2bf-4a0c-921c-9dbd09cb0907" />
+
 
 ## Hero Pose
 
 A hero pose highlighting the character's personality, proportions, silhouette, and final presentation.
 
-![Rango Hero Pose](renders/rango-hero-pose.png)
+<img width="1920" height="1080" alt="1021" src="https://github.com/user-attachments/assets/11cfe317-51b6-4c4f-bc4c-e87f5285b7c4" />
+
 
 ## High-Poly Sculpt
 
 The high-poly version of the character, showcasing sculpted details and surface forms before the final presentation.
 
-![Rango High-Poly Sculpt](renders/rango-high-poly.png)
+<img width="1920" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/3d323c47-7142-4679-b06b-ecf3599261cf" />
+
 
 ## Workflow
 
