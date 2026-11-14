@@ -36,8 +36,9 @@ The high-poly version of the character, showcasing sculpted details and surface 
 
 - **Sculpting:** Blender
 - **Retopology:** Blender
+- **Simulation:**Houdini
 - **Texturing:** Substance 3D Painter
-- **Rendering:** [Add your rendering software]
+- **Rendering:** Blender
 
 ## Project Assets
 
@@ -45,11 +46,13 @@ The high-poly version of the character, showcasing sculpted details and surface 
 - Texture maps and materials
 - Source project files
 - Character renders and sculpting breakdown
+- Cigar smoke VDB
 
 ## Software
 
 - Blender
 - Adobe Substance 3D Painter
+- Houdini
 
 ---
 
