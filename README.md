@@ -36,7 +36,7 @@ The high-poly version of the character, showcasing sculpted details and surface 
 
 - **Sculpting:** Blender
 - **Retopology:** Blender
-- **Simulation:**Houdini
+- **Simulation:** Houdini
 - **Texturing:** Substance 3D Painter
 - **Rendering:** Blender
 
